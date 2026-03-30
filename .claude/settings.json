@@ -1,0 +1,9 @@
+{
+  "hooks": [
+    {
+      "event": "SessionStart",
+      "action": "notify",
+      "message": "Welcome to My Claude Project! Custom skills and rules are active."
+    }
+  ]
+}
