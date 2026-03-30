@@ -1,4 +1,4 @@
-sysdm.cpl{
+{
   "mcpServers": {
     "github": {
       "command": "npx",
